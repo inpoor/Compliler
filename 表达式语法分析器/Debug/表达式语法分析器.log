@@ -1,0 +1,23 @@
+﻿已經開始建置於 2016/12/3 22:53:07。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.vcxproj"。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\表达式语法分析器.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "表达式语法分析器.cpp"
+         表达式语法分析器.cpp
+     1>c:\users\xind\desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.cpp(4): warning C4627: '#include "stack.h"': 尋找先行編譯標頭使用時略過
+                 新增指示詞到 'stdafx.h' 或重建先行編譯標頭
+     1>c:\users\xind\desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.cpp(5): warning C4627: '#include <string>': 尋找先行編譯標頭使用時略過
+                 新增指示詞到 'stdafx.h' 或重建先行編譯標頭
+     1>c:\users\xind\desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.cpp(8): warning C4627: '#include <conio.h>': 尋找先行編譯標頭使用時略過
+                 新增指示詞到 'stdafx.h' 或重建先行編譯標頭
+     1>c:\users\xind\desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.cpp(9): warning C4627: '#include <string>': 尋找先行編譯標頭使用時略過
+                 新增指示詞到 'stdafx.h' 或重建先行編譯標頭
+     1>c:\users\xind\desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.cpp(62): warning C4715: 'GetNextChar' : 不是所有控制路徑都傳回值
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\Debug\表达式语法分析器.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\Debug\表达式语法分析器.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\Debug\表达式语法分析器.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\表达式语法分析器.obj"
+         表达式语法分析器.vcxproj -> C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\Debug\表达式语法分析器.exe
+     1>專案 "C:\Users\xind\Desktop\oj\邢伟\表达式语法分析器\表达式语法分析器\表达式语法分析器\表达式语法分析器.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.50
